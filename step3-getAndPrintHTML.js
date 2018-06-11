@@ -3,9 +3,9 @@ var https = require('https');
 var requestOptions = {
       host: 'sytantris.github.io',
       path: '/http-examples/step3.html'
-    };
+};
 
-var output = ""
+var output = "";
 
 
 function getAndPrintHTML (options) {
