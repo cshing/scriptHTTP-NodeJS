@@ -29,4 +29,4 @@ function printHTML (html) {
     console.log(html);
 };
   
-console.log(getHTML(requestOptions, printHTML))
+getHTML(requestOptions, printHTML)
