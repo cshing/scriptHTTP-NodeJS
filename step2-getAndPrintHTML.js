@@ -1,6 +1,6 @@
 var https = require('https');
 
-var output = ""
+var output = "";
 
 function getAndPrintHTML () {
 
